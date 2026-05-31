@@ -107,33 +107,6 @@ async def predict_image(file: UploadFile = File(...)):
         traceback.print_exc() # Perintah ini akan mencetak tulisan merah error aslinya ke Colab
         raise HTTPException(status_code=500, detail=f"Terjadi kesalahan pemrosesan: {str(e)}")
 
-from pyngrok import ngrok
-import nest_asyncio
-import uvicorn
-
-# 1. SETUP TOKEN NGROK (HAPUS TULISAN DI BAWAH DAN GANTI DENGAN TOKEN MAS)
-ngrok.set_auth_token("3ETJl4pAvTJnNSngeLUElXEJK0N_6H1mGVSiY3gvKKrNHCDKy")
-
-# 2. MENGIZINKAN ASYNC DI COLAB
-nest_asyncio.apply()
-
-# 3. MEMBUAT TUNNEL NGROK
-public_url = ngrok.connect(8000)
-
-print("==================================================================")
-print(f"BERHASIL! PUBLIC URL API: {public_url.public_url}")
-print("==================================================================")
-
-# 4. MENJALANKAN SERVER (Menggunakan variabel 'app' dari Cell 2)
-config = uvicorn.Config(
-    app,
-    host="0.0.0.0",
-    port=8000
-)
-
-server = uvicorn.Server(config)
-await server.serve()
-
 from google.colab import files
 
 # 1. Teks isi dari requirements.txt
