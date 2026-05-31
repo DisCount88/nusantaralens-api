@@ -48,7 +48,9 @@ def preprocess_image_consistent(img):
     start_y = h // 2 - min_dim // 2
     cropped_img = img[start_y:start_y+min_dim, start_x:start_x+min_dim]
     img_resized = cv2.resize(cropped_img, (224, 224), interpolation=cv2.INTER_AREA)
-    img_array = img_resized.astype("float32") / 255.0
+    img_array = img_resized.astype("float32")
+    img_array = tf.keras.applications.mobilenet_v2.preprocess_input(img_array)
+    
     return np.expand_dims(img_array, axis=0)
 
 @app.get("/")
