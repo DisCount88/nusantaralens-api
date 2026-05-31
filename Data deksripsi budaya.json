@@ -1,0 +1,218 @@
+[
+    {
+        "Nama":"Gudeg",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Makanan khas ini terbuat dari nangka muda yang dimasak dengan santan dan rempah-rempah hingga berwarna coklat pekat."
+    },
+    {
+        "Nama":"Sate Klatak",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Makanan khas ini berbahan dasar daging kambing yang ditusuk menggunakan jeruji besi. Uniknya bumbunya hanya garam dan ketumbar sehingga cita rasanya sangat khas. Hidangan ini biasanya disajikan menggunakan nasi putih, kuah gulai, dan potongan cabai rawit."
+    },
+    {
+        "Nama":"Krecek",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Kuliner",
+        "Deskripsi":" Makanan ini dibuat dari kulit sapi atau kerbau yang dimasak bersama santan dan sambal. Makanan ini memiliki rasa pedas dan gurih yang dominan."
+    },
+    {
+        "Nama":"Tari Srimpi",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Srimpi diambil dari kata \"sri\" yang berarti raja dan \"impi\" yang berarti mimpi. Tari ini menggambarkan mimpi seorang raja yang ingin diwujudkan. Tariannya dimainan oleh empat orang perempuan yang telah terpilih untuk menampilkannya. Gerakannya memiliki pola yang halus, tenang, semeleh, menep, hening, dan wingit. Makna yang ini disampaikan adalah kesopanan, budi pekerti, serta lemah lembut yang menjadi karakter wanita jawa."
+    },
+    {
+        "Nama":"Tari Klana Alus",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Klana Alus merupakan tari tunggal yang tercipta di lingkungan istana dan ditampilkan dalam sebuah pertunjukan. Tarian ini ditampikan oleh seorang pria dengan gerakan yang lunak dan lamban. Makna yang disampaikan dari tari ini menceritakan seorang kesatria yang sedang jatuh cinta. Berbagai hiasan kepala seperti bulu-bulu burung merpati yang ditata warna-warni menjadi keunikan dari tarian ini. Ditambah iringan dari musik gending dan cangklek laras slendro pelog 9."
+    },
+    {
+        "Nama":"Tari Bedhaya Semang",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Bedhaya Semang adalah tari putri klasik yang dianggap sebagai pusaka. Tari ini dibawakan oleh sembilan penari yang menceritakan legenda, babad, atau sejarah. Komposisi tari putri klasijk yang dianggap sebagai pusaka dibawakan oleh sembilan penari putri dan bertemakan cerita legenda, babad, atau sejarah. Contohnya pertemuan luhur antara penembahan senopati dan ratu kidul, peperangan mataram dengan madiun, dan lain-lain."
+    },
+    {
+        "Nama":"Kidang Talun",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Kidang Talun merupakan lagu daerah Yogyakarta yang berisi tentang nasehat orang tua untuk anaknya. Pesan tersirat yang ingin disampaikan agar sang anak bisa selalu menyayangi binatang-binatang yang ada disekitarnya, seperti rusa dan gajah."
+    },
+    {
+        "Nama":"Caping Gunung",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Lagu ini diciptakan oleh Gesang yang menceritakan tentang kerinduan orang tua terhadap anaknya yang sedang ada di perantauan. Sayangnya, tidak ada kabar apapun tentang si anak setelah lama berpisah."
+    },
+    {
+        "Nama":"Suwe Ora Jamu",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Lagu ini bercerita tentang dua orang yang sudah lama tidak bertemuu. Namun, pertemuan ini malah berujung kekecewaan."
+    },
+    {
+        "Nama":"Sultan Hamengkubuwono IX",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Bernama asli Bendoro Raden Mas Dorojatun, ia lahir di Ngasem, Yogyakarta pada 12 April 1912 dan meninggal dunia di Amerika Serikat pada 2 Oktober 1988. Ia merupakan putra Sultan Hamengkubuwono VIII dan Raden Ayu Kustilah. \n\nSemasa muda, ia menempuh pendidikan di HIS dan MULO Yogyakarta. Setelah proklamasi kemerdekaan, ia menjabat sebagai Gubernur Daerah Istimewa Yogyakarta sejak 17 Agustus 1945 hingga akhir hayatnya. \n\nSelain itu, ia juga pernah menduduki sejumlah posisi penting dalam pemerintahan, di antaranya sebagai Menteri Negara dalam Kabinet Syahrir III (1946\u20131947), serta anggota kabinet Amir Syarifuddin I dan II (1947\u20131948), dan beberapa jabatan menteri lainnya. Atas jasa dan pengabdiannya, ia dianugerahi gelar Pahlawan Nasional pada 30 Juli 1990. Saat ibu kota Indonesia dipindahkan ke Yogyakarta pada 1946, beliau juga menyediakan istana dan berbagai fasilitas bagi pemerintah. Perannya juga sangat besar dalam menjaga stabilitas dan membantu rakyat di masa revolusi."
+    },
+    {
+        "Nama":"Pangeran Diponegoro",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Memiliki nama kecil Bendoro Raden Mas Ontowiryo, ia lahir di Yogyakarta pada 11 November 1785 dan meninggal dunia di Makassar pada 18 Januari 1855. Ia merupakan putra sulung Sultan Hamengkubuwono III, raja Mataram, dari seorang selir bernama Raden Ayu Mangkarawati yang berasal dari Pacitan. Dalam sejarah perjuangan bangsa, ia dikenal sebagai pemimpin Perang Sabil yang berjuang melawan penjajahan Belanda bersama Kyai Maja, seorang tokoh agama terkemuka dari Surakarta"
+    },
+    {
+        "Nama":"K.H. Ahmad Dahlan",
+        "Daerah":"Yogyakarta",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Ia dikenal sebagai pemimpin umat Islam di Jawa sekaligus pendiri organisasi Muhammadiyah pada 18 November 1912. Lahir di Yogyakarta pada tahun 1868 dengan nama kecil Muhammad Darwis, ia wafat pada tahun 1923. K.H. Ahmad Dahlan merupakan keturunan ke-12 dari Maulana Malik Ibrahim, salah satu tokoh Wali Songo yang berperan penting dalam penyebaran Islam di tanah Jawa. \n\nMelalui pemikiran dan gerakannya, ia membawa pembaharuan dalam pendidikan dan kehidupan keagamaan masyarakat. Atas jasa-jasanya, ia dianugerahi gelar Pahlawan Nasional dari Yogyakarta pada 27 Desember 1961."
+    },
+    {
+        "Nama":"Mie Aceh",
+        "Daerah":"Aceh",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Mie Aceh merupakan salah satu ikon yang paling terkenal luas. Hidangan ini menggunakan mie kuning tebal yang dimasak dengan racikan rempah khas, menghasilkan rasa gurih dan sedikit pedas."
+    },
+    {
+        "Nama":"Eungkot Keumamah",
+        "Daerah":"Aceh",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Eungkot Keumamah dikenal sebagai \"ikan kayu\". Eungkot Keumamah dibuat dari ikan tongkol, tuna, atau cakalang yang direbus, dikeringkan, lalu dimasak kembali dengan bumbu"
+    },
+    {
+        "Nama":"Ayam Tangkap",
+        "Daerah":"Aceh",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Ayam Tangkap adalah ayam goreng khas Aceh yang disajikan bersama daun kari, daun pandan, dan cabai hijau yang digoreng hingga renyah. Menu ini bisa ditemukan di Rumah Makan Spesifik Aceh dan Ayam Pramugari."
+    },
+    {
+        "Nama":"Tari Saman",
+        "Daerah":"Aceh",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Saman merupakan salah satu tarian tradisional Aceh yang berasal dari Suku Gayo yang dibawakan oleh Syekh Saman, seorang penyebar agama islam di Aceh. Penari tari saman akan mengenakan pakaian khusus berwarna-warni. Selama tari saman dipentaskan, penari akan membentuk format pola lantai yang khas. Makna dari tarian ini adalah manusia merupakan makhluk sosial sehingga membutuhkan manusia lain."
+    },
+    {
+        "Nama":"Tari Seudati",
+        "Daerah":"Aceh",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Seudati memiliki keunikan tersendiri, dimana dibawakan tanpa iringan alat musik apapun. Tari ini berasal dari bahasa arab \"syahadat\" yang artinya bersaksi atau pengakuan terhadap tiada tuhan selain Allah dan Nabi Muhammad utusan Allah dalam Islam. Saat pentas, penari seudati memakai baju putih dipadu dengan celana panjang. Sedangkan aksesorisnya terdiri dari kain songket di pinggang hingga paha. Penari juga dilengkapi rencong di bagian pinggang dan Tangkulok(ikat kepala) berwarna merah yang menjadi ciri khas tari seudati."
+    },
+    {
+        "Nama":"Tari Likok Pulo",
+        "Daerah":"Aceh",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Likok Pulo diciptakan sekitar tahun 1849 oleh seorang pedagang sekaligus ulama asal Arab bernama Syekh Ahmad Bardron. Tarian ini digelar sesudah menanam padi atau masa menjelangg panen tiba. Tarian ini juga disertai dengan pemukulan rapa'i atau alat musik untuk mengatur gerakan tari."
+    },
+    {
+        "Nama":"Tawar Sedenge",
+        "Daerah":"Aceh",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Tawar Sedenge adalah lagu daerah Aceh yang diciptakan oleh AR Moese dan mulai populer pada tahun 1957. AR Moese adalah seniman asal Gayo. Sehingga, tidak mengejutkan jika lagu ini bercerita tentang keindahan alam Gayo.\n\nGayo adalah daerah dataran tinggi yang terletak di Aceh Tengah. Wilayah ini tidak hanya indah tapi juga memiliki kekayaan alam yang berlimpah. Karena merupakan lagu yang cukup modern, lagu ini tidak hanya diiringi oleh alat musik tradisional tapi juga alat musik modern."
+    },
+    {
+        "Nama":"Bungong Jeumpa",
+        "Daerah":"Aceh",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Bungong Jeumpa adalah lagu Aceh yang sangat populer. Anak sekolah di sebagian besar wilayah Indonesia pasti pernah mempelajari lagu ini atau tari Bungong Jeumpa. Tarian ini diiringi lagu Bungong Jeumpa dan berbagai instrumen, misalnya alat musik pukul khas Aceh atau rapai."
+    },
+    {
+        "Nama":"Lembah Alas",
+        "Daerah":"Aceh",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Lembah Alas merupakan sebuah daerah di Aceh Tenggara. Namun, lagu Lembah Alas tidak menceritakan tentang keindahan atau kekayaan alam daerah tersebut. Lagu ini adalah lagu bertema cinta.\n\nLirik lagu Lembah Alas mengisahkan bagaimana sepasang kekasih menjaga cinta dan kesetiaan mereka meski mereka sedang berjauhan. Lagu ini juga bermakna bahwa jarak bukanlah halangan bagi cinta mereka, tapi penguat cinta mereka."
+    },
+    {
+        "Nama":"Cut Nyak Dhien",
+        "Daerah":"Aceh",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Cut Nyak Dhien merupakan Pahlawan Nasional yang lahir di Lampadang, Aceh Besar, pada 1848. Cut Nyak Dhien bersama suaminya, Teuku Umar berjuang bersama rakyat untuk mengusir penjajah dari Tanah Rencong\n\nMeski sang suami wafat, namun Cut Nyak Dhien tetap melakukan perlawanan terhadap para penjajah dengan bergerilya. Cut Nyak Dhien meninggal dunia pada 6 November 1908 dan dimakamkan di daerah Gunung Puyuh, Sumedang, Jawa Barat."
+    },
+    {
+        "Nama":"Teuku Umar",
+        "Daerah":"Aceh",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Teuku Umar merupakan Pahlawan Nasional yang lahir di Meulaboh, Aceh, pada tahun 1854.\n\nBersama sang istri, Cut Nyak Dhien, Teuku Umar mengandalkan taktik perang gerilya untuk mengusir penjajah. Teuku Umar wafat setelah gugur terlibat pertempuran dengan pasukan Belanda yang dipimpin Jenderal Van Heutsz di Ujong Kalak, Meulaboh pada 11 Februari 1899."
+    },
+    {
+        "Nama":"Cut Nyak Meutia",
+        "Daerah":"Aceh",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Cut Nyak Meutia merupakan pahlawan nasional yang lahir  di Keureutoe, Aceh Utara, pada 15 Februari 1870\n\nCut Nyak Meutia dikenal saat berjuang bersama pasukan Inong Balee kala melawan Belanda. Inong Balee sendiri merupakan sebutan untuk janda pejuang Aceh.  Ia gugur pada 24 Oktober 1910 dalam sebuah pertempuran melawan Belanda di Alue Kurieng, Aceh Utara dan dimakamkan di Kawasan Hutan Lindung Gunung Lipeh, Aceh Utara."
+    },
+    {
+        "Nama":"Ikan Kuah Belimbing",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Ikan Kuah Belimbing merupakan sajian berupa ikan tongkol yang diolah dengan kuah belimbing yang segar dan nikmat. Cara memasaknya dengan merebus air dengan bumbu berupa cabai merah keriting, bawang merah, bawang putih, kunyit, merica, jahe, garam, dan gula pasir yang telah dihaluskan. Kemudian masukkan ikan tongkol yang telah dipotong sesuai selera dan rempah tambahan lain seperti daun serai, daun jeruk, daun bawang dan belimbing wuluh, jika rasanya kurang pas, juga bisa menambahkan penyedap rasa."
+    },
+    {
+        "Nama":"Jagung Bose",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Jagung bose merupakan makanan tradisional Nusa Tenggara Timur yang disantap sebagai pengganti nasi. Hidangan jagung bose terdiri dari jagung dan kacang-kacangan, biasanya kacang merah dan kacang tanah yang dicampur dengan santan. Cara mengolah jagung bose adalah dengan memasukkan kacang-kacangan ke dalam air yang telah mendidih, setelah kacang tersebut matang, barulah jagung dimasukkan, terkadang masyarakat Nusa Tenggara Barat juga menambahkan labu atau sayuran ke dalamnya. Jika semua bahan sudah matang, santan dan bumbu-bumbu dimasukkan dan dimasak hingga air menyusut."
+    },
+    {
+        "Nama":"Daging Belacang",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Kuliner",
+        "Deskripsi":"Sajian daging belacang Nusa Tenggara Timur hampir sama seperti rendang daging khas Padang namun dengan resep dan cara pengolahan yang sangat berbeda.Daging belacang terbuat dari daging sapi yang dipotong dadu dan digoreng hingga kering, kemudian dibumbui dengan cabai, bawang merah, bawang putih, terasi matang, garam, dan gula merah yang dihaluskan kemudian ditumis dan ditambahkan air asam jawa, kecap manis, dan daun bawang."
+    },
+    {
+        "Nama":"Tari Cerana",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Cerana berasal dari wilayah Kupang dan sekitarnya. Tari Cerana dibawakan sebagai tarian penyambutan kepada tamu atau persembahan. Tari Cerana meilikii makan sebagai bentuk penerimaan masyarakat ke tamu, begitu juga sebaliknya. Tarian ini identik dengan membawa sirih dan pinang di wadah yang berfungsi sebagai simbol penerimaan. Para penari akan meari dengan lemah lembut sambil membawa sirih dan pinang. Sirih dan pinang tersebut akan diberikan kepada tamu sebagai simbol penerimaan masyarakat."
+    },
+    {
+        "Nama":"Tari Caci",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Caci merupakan tarian perang yang berasal dari flores. Kata \"Caci\" diambil dari \"Ca\" yang berarti satu dan \"Ci\" yang berarti uji. Dulu tarian ini digunakan sebagai cari mencari siapa yang benar dan salah. Namun sekarang dipentaskan untuk menyambut tamu. Tari caci dilakukan dengan cara memukul cambuk ke arah kelompok lawan secara bergantian. Alat yang digunakan ketika pementasan adalah cambuk yang dibuat dari batang janur kuning, perisai, dan penutup kepala.\n"
+    },
+    {
+        "Nama":"Tari Danding",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Tarian",
+        "Deskripsi":"Tari Danding merupakan tarian yang berasal dari daerah Kabupaten Manggarai. Tarian ini merupakan sebuah tarian pergaulan oleh masyrakat Manggarai. Tari Danding berbentuk nyanyian dan tarian yang memiliki ritme pantun atau tanya jawba. Tarian ini dinyanyikan secara berkelompok oleh laki-laki dan perempuan yang bergerak mengitari lingkaran. Ditengah-tengah lingkaran terdapat pemimpin yang mengatur irama gerakan bernama Danding."
+    },
+    {
+        "Nama":"Anak Kambing Saya",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Anak Kambing Saya adalah lagu daerah khas NTT. Lagu ni terkenal karena liriknya yang singkat dan diulang-ulang, sehingga mudah dihafal oleh anak-anak atau orang dewasa pada umumnya.  Lagu ini memiliki makna tentang orang tua yang sedang berusaha mencari anak kesayangan mereka.\n\n"
+    },
+    {
+        "Nama":"Ptong Bebek Angsa",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Potong Bebek Angsa merupakan lagu daerah NTT yang akrab di telinga masyarakat Indonesia. Bahkan tidak sedikit yang mengira bahwa lagu ini adalah lagu anak. Padahal ini adalah lagu daerah. Lagu ini adalah cara untuk mengajak seseorang yang kita cintai untuk menari bersama."
+    },
+    {
+        "Nama":"Gemu Fa Mi Re",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Lagu Daerah",
+        "Deskripsi":"Gemu Fa Mi Re merupakan salah satu lagu daerah khas NTT yang dinyanyikan ketika ada acara-acara kebersamaan. Lagu ini cocok dibawakan untuk membangkitkan kegembiraan dan semangat. Adapuun lagu Gemu Fa Mi Re merupakan ungkapan jenaka nenek moyang"
+    },
+    {
+        "Nama":"Prof. Dr. Wilhelmus Zakaria Johannes",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Wilhelmus Zakaria Johannes merupakan salah satu pahlawan asal NTT. Ia lahir pada 1895 di Termanu, Pulau Rote dan meninggal pada 4 September 1952. Ia merupakan salah satu pahlawan nasional di bidang pendidikan dan pejuang pergerakan nasional. Ia juga merupakan seorang ahli radiologi pertama di Indonesia.\n\nWilhelmus Zakaria Johannes adalah salah satu orang yang mendirikan Badan Persiapan Persatuan Kristen (BPPK), yang sekarang dikenal sebagai Partai Kristen Indonesia (Parkindo).\n\nUntuk mempertahankan Kemerdekaan RI, ia mendirikan organisasi perjuangan yang disebut Gerakan Rakyat Indonesia Sunda Kecil (GRISK)."
+    },
+    {
+        "Nama":"Izaak Huru Doko\n",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Izaak Huru Doko merupakan pahlawan nasional yang berasal dari NTT. Ia lahir pada 20 November 1913 di Pulau Sabu dan meninggal pada 29 Juli 1985 di Kupang. Ia juga dikenal sebagai ayam jantan dari Timur.\n\nIzaak Huru Doko terlibat dalam enam kegiatan yang berkontribusi pada perjuangan menuju Kemerdekaan Republik Indonesia. Tak hanya sampai situ, ia terus aktif dalam 23 jenis kegiatan yang bertujuan mempertahankan kemerdekaan Republik Indonesia.\n\nPada 1947, ia menjadi anggota parlemen Negara Indonesia Timur (NIT). Selain itu, dia juga menjadi Menteri Muda Penerangan dari Desember 1947 hingga Maret 1950."
+    },
+    {
+        "Nama":"Prof. Dr. Ir. Herman Johannes",
+        "Daerah":"Nusa Tenggara Timur",
+        "Kategori":"Pahlawan Nasional",
+        "Deskripsi":"Herman Johannes merupakan pahlawan nasional yang lahir pada 28 Mei 1912 di Rote, NTT dan meninggal pada 17 Oktober 1992 di Yogyakarta. Ia merupakan seorang cendekiawan, politikus, ilmuwan, guru besar Universitas Gadjah Mada (UGM), sekaligus Pahlawan Nasional Indonesia.\n\nKemampuan Herman Johannes dalam ilmu fisika dan kimia telah menghasilkan berbagai penemuan yang bermanfaat bagi masyarakat pada saat itu. Salah satu penemuan yang berguna pada saat itu ada di bidang militer.\n\nPenemuan tersebut digunakan untuk merakit senjata seperti bom dan bahan peledak yang terbukti efektif dalam perlawanan terhadap penjajahan Belanda, terutama selama Agresi Militer 1 dan 2."
+    }
+]
